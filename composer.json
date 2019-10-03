@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Start_Gateway",
+    "name": "OpenMageModuleFostering\/Start_Gateway",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
     "description": "Payfort Start Payment Gateway integration module",
     "authors": [
-    {
-        "name": "Payfort Start",
-        "email": "pavel@payfort.com"
-    }
-],
+        {
+            "name": "Payfort Start",
+            "email": "pavel@payfort.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
