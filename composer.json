@@ -1,5 +1,5 @@
 {
-    "name": "OpenMageModuleFostering\/Start_Gateway",
+    "name": "openmage-module-fostering\/start_gateway",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
